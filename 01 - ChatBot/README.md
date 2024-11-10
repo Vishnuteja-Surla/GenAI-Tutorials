@@ -2,7 +2,6 @@
 
 Narada AI is an interactive web application powered by Google’s Generative AI model, "Gemini," built using LangChain and Streamlit. This app allows users to ask questions and receive intelligent, AI-generated responses. It serves as a helpful tool for answering queries across a wide range of topics.
 
-
 ## Features
 
 - **AI-Powered Responses**: Uses the "Gemini" model from Google Generative AI for intelligent, conversational responses.
@@ -20,7 +19,6 @@ To set up Narada AI on your local machine, follow these steps:
     ```
 
 2. **Install dependencies**:
-
 
     ```bash
     pip install -r requirements.txt
