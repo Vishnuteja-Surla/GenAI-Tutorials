@@ -26,7 +26,7 @@ prompt = ChatPromptTemplate.from_messages(
 )
 
 # Streamlit Framework
-st.title("Tenali Ramakrishna AI")
+st.title("Narada AI")
 input_text = st.text_input("Ask anything you want")
 
 # Gemini LLM
